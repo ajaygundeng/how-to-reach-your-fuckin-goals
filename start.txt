@@ -16,3 +16,8 @@ How to reach your fuckin' goals
 #purpose == strengh + passion
 >> it's not to be the best but to be your best
 >> there are many people those get the perfect grade, its mean that goals is easy now your goals is not to get perfect grade but yoou have to start it early!!
+
+
+
+dns proxy in linux sudo apt install dnscrypt-proxy 
+for your safe browsing
